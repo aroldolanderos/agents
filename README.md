@@ -6,10 +6,10 @@ Repositorio de los agentes que suelo utilizar con frecuencia.
 
 ## Available Agents
 
-| Agent | Documentation                                    | Description                                                         |
-| ----- | ------------------------------------------------ | ------------------------------------------------------------------- |
-| Flask | [flask.changelog.md](./flask/flask.changelog.md) | Agente de proyectos Flask (Cerofilas) para actualizar el changelog. |
-| Nuxt  | [nuxt.changelog.md](./nuxt/nuxt.changelog.md)    | Agente de proyectos Nuxt (Cerofilas) para actualizar el changelog.  |
+| Agent | Documentation                                     | Description                                                         |
+| ----- | ------------------------------------------------- | ------------------------------------------------------------------- |
+| Flask | [flask.changelog.md](./claude/flask-changelog.md) | Agente de proyectos Flask (Cerofilas) para actualizar el changelog. |
+| Nuxt  | [nuxt.changelog.md](./claude/nuxt-changelog.md)   | Agente de proyectos Nuxt (Cerofilas) para actualizar el changelog.  |
 
 ## Specifications
 
